@@ -32,7 +32,7 @@ Read through the instructions to get a sense of the scope of this code challenge
 
 2. On the heroines index page, a heroine's name should link to the heroine's show page.
 
-3. The heroine show page should include the heroine's name (eg. Kamala Khan), her super name (eg. Ms. Marvel), and her power. The power should link to the power show page.  
+3. The heroine show page should include the heroine's name (eg. Kamala Khan), her super name (eg. Ms. Marvel), and her power. The power should link to the power show page.
 
 4. The power show page should have its name and description.
 
@@ -59,3 +59,13 @@ Read through the instructions to get a sense of the scope of this code challenge
 + More than one heroine can have the same power.
 + We want to be RESTful. What URL should show info about a particular heroine? What URL should show a form to create a heroine? What controller actions are associated?
 + If you're having a hard time implementing the filter, take a look at this http://guides.rubyonrails.org/form_helpers.html#a-generic-search-form. We are asking an input field to search for powers.
+
+
+## Submission
+
+Do not push your changes up to Github. When you finish:
+
+1. If you haven't already, create a custom branch with `git checkout -b custom_branch`.
+1. `git add` and `git commit` your changes.
+1. From you custom branch, run `git format-patch master --stdout > your_name.patch`, replacing `your_name` with your first and last name.
+1. Send the patch file to your instructor on Connect before the specified time. Remember, you can use `open .` to launch a Finder window from your current directory, and then drag your file into Connect.
