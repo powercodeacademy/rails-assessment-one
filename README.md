@@ -46,7 +46,7 @@ Read through the instructions to get a sense of the scope of this code challenge
 
 # BONUS TO BE COMPLETED IF EVERYTHING ELSE IS DONE
 
-8. Add basic validations to the models as you see fit. Handle validation errors gracefully and display errors messages to the user. 
+8. Add basic validations to the models as you see fit. Handle validation errors gracefully and display error messages to the user. 
 
 9. Add a filter to the index view of the heroines. This will allow the visitor to search for an existing power and display all the heroines with that power on the same view page.
 
