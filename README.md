@@ -50,6 +50,7 @@ Read through the instructions to get a sense of the scope of this code challenge
 
 ![Searching on the heroines route and finding heroines by a power](search_by_power.gif)
 
+9. Add basic validations to the models as you see fit. Handle validation errors gracefully and display errors messages to the user. 
 
 ### Hints / Tips
 + Draw your domain model and associations before you begin. You may have to alter the current schema to get your code working.
